@@ -1,7 +1,7 @@
 {
   "name": "ipfs-react",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "packageManager": "pnpm@8.4.0",
   "main": "./dist/ipfs-react.umd.js",
   "module": "./dist/ipfs-react.es.js",
